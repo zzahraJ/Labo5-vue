@@ -48,8 +48,19 @@
     </div>
 </template>
 
-
 <style scoped>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
 
 </style>
 
